@@ -1,0 +1,5 @@
+# database
+/db.json
+modules/jwt.js
+/firebase.json
+/hashing.js

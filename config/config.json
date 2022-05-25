@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": "aelim126",
+    "database": "ro_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "aelim126",
+    "database": "ro_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "aelim126",
+    "database": "ro_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "salt" : "asdkjlascnklasq2319fsjaks1asd21"
+  
+  }
+  
+
